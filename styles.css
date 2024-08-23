@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    color: #333;
+    color: #254336;
 }
 
 /* Style de l'en-tête */
@@ -37,7 +37,7 @@ a:hover {
 
 /* Style du pied de page */
 footer {
-    background-color: #f4f4f4;
+    background-color: #e6ebe6;
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -48,8 +48,8 @@ footer {
 
 /* Style spécifique à la page d'accueil */
 .home-header {
-    background-color: rgb(23, 47, 120);
-    color: white;
+    background-color: #e6ebe6;
+    color: 254336;
 }
 
 .home-header nav ul li a {
@@ -104,7 +104,7 @@ main {
 
 /* Style pour la page Contact Us */
 .contact-header {
-    background-color: rgb(109, 32, 142);
+    background-color: #254336;
     color: white;
 }
 .contact-main {
@@ -120,6 +120,9 @@ button {
     color: white;
 }
 
+.accueil-btn {
+    background-color: #254336;
+}
 .sixth-btn {
     background-color: lightblue;
 }
@@ -136,5 +139,5 @@ button {
     background-color: red;
 }
 .contact-btn {
-    background-color: rgb(109, 32, 142);
+    background-color: #254336;
 }
