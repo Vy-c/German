@@ -102,6 +102,27 @@ main {
     padding: 20px;
 }
 
+.thirdprepa-header {
+    background-color: #205f45;
+    color: white;
+}
+.thirdprepa-main {
+    background-color: #e0f7fa;
+}
+.secondpro-header {
+    background-color: #205f45;
+    color: white;
+}
+.secondpro-main {
+    background-color: #e0f7fa;
+}
+.premierepro-header {
+    background-color: #205f45;
+    color: white;
+}
+.premierepro-main {
+    background-color: #e0f7fa;
+}
 /* Style pour la page Contact Us */
 .contact-header {
     background-color: #205f45;
@@ -138,6 +159,15 @@ button {
 .third-btn {
     background-color: rgb(254, 64, 64);
 }
-.contact-btn {
+.thirdprepa-btn {
     background-color: #89aa9b;
+}
+.secondpro-btn {
+    background-color: #89aa9b;
+}
+.premierepro-btn {
+    background-color: #89aa9b;
+}
+.contact-btn {
+    background-color: #f2d2f2;
 }
